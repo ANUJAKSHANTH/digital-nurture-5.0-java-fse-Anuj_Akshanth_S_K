@@ -1,0 +1,9 @@
+*.class
+*.log
+.idea/
+*.iml
+target/
+build/
+.DS_Store
+nbproject/
+.settings/
